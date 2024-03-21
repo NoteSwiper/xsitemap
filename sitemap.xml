@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <url>
-        <loc>//note-swiper.f5.si/</loc>
+        <loc>http//note-swiper.f5.si/</loc>
         <lastmod>2024-03-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     <url>
-        <loc>//note-swiper.f5.si/article/?type=index</loc>
+        <loc>http//note-swiper.f5.si/article/?type=index</loc>
         <lastmod>2024-02-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>//files.note-swiper.f5.si/links/</loc>
+        <loc>http//files.note-swiper.f5.si/links/</loc>
         <lastmod>2024-02-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>//novetus.note-swiper.f5.si/</loc>
+        <loc>http//novetus.note-swiper.f5.si/</loc>
         <lastmod>2024-01-05</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.599999999999999978</priority>
     </url>
     <url>
-        <loc>//novetus.note-swiper.f5.si/servers/</loc>
+        <loc>http//novetus.note-swiper.f5.si/servers/</loc>
         <lastmod>2024-02-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.800000000000000044</priority>
     </url>
     <url>
-        <loc>//time-signal.ntesp.f5.si/</loc>
+        <loc>http//time-signal.ntesp.f5.si/</loc>
         <lastmod>2024-02-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.299999999999999989</priority>
     </url>
     <url>
-        <loc>//time-signal.ntesp.f5.si/JJY/</loc>
+        <loc>http//time-signal.ntesp.f5.si/JJY/</loc>
         <lastmod>2024-02-22</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>//ntesp.f5.si/</loc>
+        <loc>http//ntesp.f5.si/</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.400000000000000022</priority>
     </url>
     <url>
-        <loc>//ntesp.f5.si/signals/</loc>
+        <loc>http//ntesp.f5.si/signals/</loc>
         <lastmod>2024-03-21</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.900000000000000022</priority>
